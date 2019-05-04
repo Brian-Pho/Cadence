@@ -4,9 +4,16 @@ description:      My rhythm of thoughts.
 meta_description: "Cadence, my rhythm of thoughts"
 url:              https://brianpho.com
 baseurl:          # does not include hostname
-author:           "Brian Pho"
+author:           'Brian Pho'
+
+# Filtering Content
+show_drafts:      null
+limit_posts:      0
+future:           false
+unpublished:      false      
 
 # Plugins
+whitelist:        []
 plugins:          [jekyll-paginate]
 
 # Conversion
@@ -14,5 +21,12 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Outputting
+permalink:        date
 logo: false
 paginate:         5
+paginate_path:    /page:num
+timezone:         null
+
+quiet:            false
+verbose:          false
+defaults:         []
