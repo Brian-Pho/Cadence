@@ -567,6 +567,24 @@ margin on the iframe, cause it breaks stuff. */
     width: auto;
 }
 
+.about-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    float: left;
+    height: 38px;
+    padding: 0 15px 0 15px;
+    border: transparent 1px solid;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    border-radius: 3px;
+    background: rgba(0, 0, 0, 0.1);
+    transition: all ease 0.3s;
+}
 .back-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -585,6 +603,7 @@ margin on the iframe, cause it breaks stuff. */
     background: rgba(0,0,0,0.1);
     transition: all ease 0.3s;
 }
+.about-button:before,
 .back-button:before {
     position: relative;
     bottom: -2px;
@@ -607,6 +626,7 @@ margin on the iframe, cause it breaks stuff. */
     background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 100%);
 }
 .no-cover .main-nav.overlay,
+.no-cover .about-button,
 .no-cover .back-button {
     background: none;
 }
@@ -615,6 +635,7 @@ margin on the iframe, cause it breaks stuff. */
     color: #fff;
 }
 
+.main-nav.overlay .about-button,
 .main-nav.overlay .back-button {
     border-color: rgba(255,255,255,0.6);
 }
@@ -627,6 +648,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 /* Add a border to the buttons on hover */
+.about-button:hover,
 .back-button:hover {
     border-color: #bfc8cd;
     color: #9EABB3;
@@ -666,6 +688,7 @@ margin on the iframe, cause it breaks stuff. */
     color: rgba(0,0,0,0.5);
 }
 
+.no-cover .main-nav.overlay .about-button,
 .no-cover .main-nav.overlay .back-button {
     color: rgba(0,0,0,0.4);
     border-color: rgba(0,0,0,0.3);
@@ -1367,6 +1390,7 @@ body:not(.post-template) .post-title {
         height: 26px;
     }
 
+    .about-button,
     .back-button {
         height: 44px;
         line-height: 41px;
@@ -1374,12 +1398,14 @@ body:not(.post-template) .post-title {
         color: #2e2e2e;
         background: transparent;
     }
+    .about-button:hover,
     .back-button:hover {
         border-color: #ebeef0;
         color: #2e2e2e;
         background: #ebeef0;
     }
 
+    .about-button,
     .back-button {
         padding: 0 15px 0 10px;
     }
@@ -1393,10 +1419,12 @@ body:not(.post-template) .post-title {
     .no-cover .main-nav.overlay {
         background: none;
     }
+    .no-cover .main-nav.overlay .about-button,
     .no-cover .main-nav.overlay .back-button {
         border: none;
     }
 
+    .main-nav.overlay .about-button,
     .main-nav.overlay .back-button {
         border-color: transparent;
     }
