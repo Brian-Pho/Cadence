@@ -14,6 +14,23 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Add content
 - [ ] Write about me
 
+## Topic List
+
+- [ ] Artificial intelligence (Intelligence attributes itself as to why we are the dominant species of this planet.)
+- [ ] Weak points of problems
+- [ ] Exploration/exploitation tradeoff
+- [ ] Improving/Advance
+- [ ] Recursive self-improvement
+- [ ] Horizontal vs vertical improvement
+- [ ] Mastery
+- [ ] Writing
+- [ ] Evidence and science
+- [ ] Is Reality Real?
+- [ ] The future
+- [ ] Relationships
+- [ ] List of my favorite quotes
+- [ ] Open minded
+
 ## Other Potential Jekyll Themes
 
 - <https://github.com/nickbalestra/kactus>
