@@ -1,7 +1,7 @@
 # Setup
 name:             Cadence
 description:      My rhythm of thoughts.
-meta_description: "Cadence, my rhythm of thoughts"
+meta_description: "Cadence, my rhythm of thoughts."
 url:              https://brianpho.com
 baseurl:          # does not include hostname
 author:           "Brian Pho"
