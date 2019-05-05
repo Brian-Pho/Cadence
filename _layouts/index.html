@@ -3,8 +3,7 @@ layout: default
 cover: false
 ---
 
-<header class="main-header {% if page.cover %}"
-    style="background-image: url({{ page.cover }}) {%else%} no-cover {% endif %}">
+<header class="main-header no-cover">
     <nav class="main-nav overlay clearfix">
         <a class="about-button" href="{{ site.baseurl }}/about.html">About</a>
         {% if page.logo %}

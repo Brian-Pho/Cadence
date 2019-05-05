@@ -13,6 +13,7 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Complete site visuals
 - [ ] Add content
 - [ ] Write about me
+- [ ] Add visualization to homepage: <https://ptsjs.org/demo/edit/?name=geom.perpendicular>
 
 ## Topic List
 
