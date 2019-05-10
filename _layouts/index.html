@@ -42,7 +42,7 @@ cover: false
             {% if site.author %}
             <img class="author-thumb" src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Author's profile picture"
                 nopin="nopin" />
-            {{ site.author }}
+            <span>{{ site.author }}</span>
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
                 {{ post.date | date_to_string }}
