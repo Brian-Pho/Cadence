@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome"
+title: "Welcome"
 ---
 
 Hi, this is my first post.
