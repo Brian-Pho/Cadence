@@ -5,6 +5,8 @@ title: "My quest for artificial intelligence"
 
 This post logs my ongoing quest to create artificial general intelligence. I will continually update this post as I find more interesting ideas for creating AI.
 
+---
+
 #### Thoughts as of Dec 25, 2018
 
 I'm keeping a "semi-journal" of my journey of becoming an AI researcher and (hopefully) creating AI.
@@ -15,11 +17,15 @@ With "Peak" completed, I think I'm done with this learning to learn and mastery/
 
 The current plan is to devise a path to AI. I've brainstormed a few. One is to follow the evolution path and hope that creates AI but it's low chance to succeed with high time investment. Another is to follow the human path of starting at a child and working the ways up. It's higher chance to succeed but difficult.
 
+---
+
 #### Thoughts as of March 23, 2019
 
 I've edited my last journal entry for clarity. Man was it bad. Anyways, I just completed the cognitive science textbook a week ago and I'm working on editing the notes to be more presentable. A few health problems have come up and if I die, I hope someone will take up this mantle of building AI with the neuroscience and cog sci approach. This is because I've realized something about problems in general; that they have weak points. And I believe that the weak point of AI is our brains because it's the only known object to exhibit intelligent behavior.
 
 I'm still working out the details of how to create AI but one item I've made progress on is that we'll need some measure to see how close we are to AGI. "If you can't measure it, you can't improve it." Whether that be the complexity of the game it can play, how many jobs it can replace, or how close it is to passing the Turing test, we need some measure. I don't know what measure is relevant or best, but since we're aiming for AI, a measure of intelligence is needed (IQ isn't a very good measure).
+
+---
 
 #### Thoughts as of May 9, 2019
 
