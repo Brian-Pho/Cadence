@@ -1350,6 +1350,9 @@ body:not(.post-template) .post-title {
         padding: 0;
     }
 
+    #homepage-animation {
+        display: none;
+    }
 }
 
 
