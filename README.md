@@ -31,6 +31,7 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Relationships
 - [ ] List of my favorite quotes
 - [ ] Open minded
+- [ ] Selfish altruism and Altruistic selflessness
 
 ## Other Potential Jekyll Themes
 
