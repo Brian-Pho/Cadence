@@ -12,8 +12,6 @@ Theme Link: <https://github.com/rosario/kasper>
 
 - [ ] Complete site visuals
 - [ ] Add content
-- [ ] Write about me
-- [ ] Add visualization to homepage: <https://ptsjs.org/demo/edit/?name=geom.perpendicular>
 
 ## Topic List
 
@@ -31,7 +29,7 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Relationships
 - [ ] List of my favorite quotes
 - [ ] Open minded
-- [ ] Selfish altruism and Altruistic selflessness
+- [ ] Selfish altruism and Altruistic selfishness
 
 ## Other Potential Jekyll Themes
 
@@ -39,3 +37,5 @@ Theme Link: <https://github.com/rosario/kasper>
 - <https://github.com/aweekj/kiko-now>
 - <https://github.com/johno/pixyll>
 - <https://github.com/muan/scribble>
+
+What I cannot create I do not understand.
