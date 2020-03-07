@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "My quest for artificial intelligence"
+title: "My Quest for Artificial Intelligence"
+excerpt: "Logging my ongoing quest to create artificial general intelligence."
 ---
 
 This post logs my ongoing quest to create artificial general intelligence (AGI). I will continually update this post as I find and explore more interesting ideas for creating AGI.
