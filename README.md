@@ -10,7 +10,6 @@ Theme Link: <https://github.com/rosario/kasper>
 
 ## TODO
 
-- [ ] Complete site visuals
 - [ ] Add content
 
 ## Topic List
@@ -30,12 +29,3 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] List of my favorite quotes
 - [ ] Open minded
 - [ ] Selfish altruism and Altruistic selfishness
-
-## Other Potential Jekyll Themes
-
-- <https://github.com/nickbalestra/kactus>
-- <https://github.com/aweekj/kiko-now>
-- <https://github.com/johno/pixyll>
-- <https://github.com/muan/scribble>
-
-What I cannot create I do not understand.
