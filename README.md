@@ -8,14 +8,10 @@ Cadence Link: <https://brianpho.com/Cadence>
 
 Theme Link: <https://github.com/rosario/kasper>
 
-## TODO
-
-- [ ] Add content
-
 ## Topic List
 
 - [ ] Artificial intelligence (Intelligence attributes itself as to why we are the dominant species of this planet.)
-- [ ] Weak points of problems
+- [x] Weak points of problems
 - [ ] Exploration/exploitation tradeoff
 - [ ] Improving/Advance
 - [ ] Recursive self-improvement
@@ -23,7 +19,7 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Mastery
 - [ ] Writing
 - [ ] Evidence and science
-- [ ] Is Reality Real?
+- [ ] Is Reality Real? Dreams and the feeling of reality. imagined reality
 - [ ] The future
 - [ ] Relationships
 - [ ] List of my favorite quotes
