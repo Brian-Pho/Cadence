@@ -11,7 +11,6 @@ Theme Link: <https://github.com/rosario/kasper>
 ## Topic List
 
 - [ ] Artificial intelligence (Intelligence attributes itself as to why we are the dominant species of this planet.)
-- [x] Weak points of problems
 - [ ] Exploration/exploitation tradeoff
 - [ ] Improving/Advance
 - [ ] Recursive self-improvement
@@ -22,6 +21,5 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Is Reality Real? Dreams and the feeling of reality. imagined reality
 - [ ] The future
 - [ ] Relationships
-- [ ] List of my favorite quotes
 - [ ] Open minded
 - [ ] Selfish altruism and Altruistic selfishness
