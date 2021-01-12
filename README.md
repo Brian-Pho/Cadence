@@ -14,7 +14,6 @@ Theme Link: <https://github.com/rosario/kasper>
 - [ ] Exploration/exploitation tradeoff
 - [ ] Improving/Advance
 - [ ] Recursive self-improvement
-- [ ] Horizontal vs vertical improvement
 - [ ] Mastery
 - [ ] Writing
 - [ ] Evidence and science
